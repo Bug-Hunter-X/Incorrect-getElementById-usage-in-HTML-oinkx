@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily avoidable error when using Javascript's getElementById method to modify the content of HTML elements.  The issue is that the '#' symbol should not be included when calling the getElementById function; this is a common mistake made by programmers unfamiliar with this function.
